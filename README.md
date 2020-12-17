@@ -1,2 +1,2 @@
 # kivynew
-Practice working with rounded corners.
+Practice working with rounded corners and working on menu filechoosers.
